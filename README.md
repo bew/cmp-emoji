@@ -16,7 +16,7 @@ require'cmp'.setup {
 
 #### insert (type: boolean)
 
-Specify emoji should be insert or not.
+Specify whether the emoji character should be inserted or not.
 
 Default: `false`
 
